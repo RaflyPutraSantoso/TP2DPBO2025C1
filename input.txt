@@ -1,0 +1,9 @@
+ID Product: 1
+Name Product: makanankucingwhiskas
+Harga Product: 50000 
+Stok Product: 30 
+Jenis Product: makanan
+Bahan Product: dagingayam
+Warna: merah
+Ukuran Product: 1.5 kg
+Merk Product: whiskas
