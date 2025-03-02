@@ -28,6 +28,30 @@ README.md cukup 1 yang berisi: janji, penjelasan atribut dan methods, penjelasan
 CPP, Java, Python wajib dapat menerima inputan user, khusus PHP boleh hardcode atau jika mau interaktif menerima actions pada website juga boleh kalau mau (gak ada bonus)
 Kode tidak wajib diberikan komentar, yang wajib adalah penjelasan SECARA LENGKAP pada README.md
 
+
+## Diagram
+terdiri dari 3 class yaitu : 
+**Petshop**
+**Aksesoris (child dari PetShop)**
+**Baju (child dari Aksesoris)**
+
+Didalam class **PetShop** memiliki 5 Atribut, yaitu : 
+* Id 
+* Nama
+* Harga
+* Stok
+* Foto
+  
+Didalam class **Aksesoris** memiliki 3 Atribut, yaitu : 
+* Jenis
+* Bahan
+* Warna
+
+Didalam class **Baju** memiliki 2 Atribut, yaitu : 
+* Size
+* Merk
+
+  
 ## Penjelasan 
 
 Untuk dokumentasi menggunakan screenshot yang sudah tersedia di masing-masing folder bahasa.
